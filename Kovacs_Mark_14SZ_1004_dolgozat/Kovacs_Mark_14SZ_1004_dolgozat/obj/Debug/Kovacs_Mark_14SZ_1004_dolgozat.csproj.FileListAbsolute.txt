@@ -1,0 +1,7 @@
+C:\Users\kovacs.mark\source\repos\Kovacs_Mark_14SZ_1004_dolgozat\Kovacs_Mark_14SZ_1004_dolgozat\bin\Debug\Kovacs_Mark_14SZ_1004_dolgozat.exe.config
+C:\Users\kovacs.mark\source\repos\Kovacs_Mark_14SZ_1004_dolgozat\Kovacs_Mark_14SZ_1004_dolgozat\bin\Debug\Kovacs_Mark_14SZ_1004_dolgozat.exe
+C:\Users\kovacs.mark\source\repos\Kovacs_Mark_14SZ_1004_dolgozat\Kovacs_Mark_14SZ_1004_dolgozat\bin\Debug\Kovacs_Mark_14SZ_1004_dolgozat.pdb
+C:\Users\kovacs.mark\source\repos\Kovacs_Mark_14SZ_1004_dolgozat\Kovacs_Mark_14SZ_1004_dolgozat\obj\Debug\Kovacs_Mark_14SZ_1004_dolgozat.csprojAssemblyReference.cache
+C:\Users\kovacs.mark\source\repos\Kovacs_Mark_14SZ_1004_dolgozat\Kovacs_Mark_14SZ_1004_dolgozat\obj\Debug\Kovacs_Mark_14SZ_1004_dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.mark\source\repos\Kovacs_Mark_14SZ_1004_dolgozat\Kovacs_Mark_14SZ_1004_dolgozat\obj\Debug\Kovacs_Mark_14SZ_1004_dolgozat.exe
+C:\Users\kovacs.mark\source\repos\Kovacs_Mark_14SZ_1004_dolgozat\Kovacs_Mark_14SZ_1004_dolgozat\obj\Debug\Kovacs_Mark_14SZ_1004_dolgozat.pdb
